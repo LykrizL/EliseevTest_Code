@@ -17,6 +17,7 @@ namespace EliseevTest
             Console.WriteLine($"b = {b}");
             Console.WriteLine($"a + b = {a + b} ");
             Console.WriteLine($"a + b + c = {a + b + c} ");
+            Console.WriteLine($"a * b = {a * b} ");
             Console.ReadKey();
         }
     }
